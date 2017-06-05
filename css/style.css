@@ -1,0 +1,177 @@
+body{
+margin-left:20px;
+margin-right:20px;
+
+}
+
+h1{
+	font-size: 68px;
+}
+
+header{
+display:table;
+background-image:url('../images_files/hero3-2.jpg');
+height: 640px;
+background-size: cover;
+width: 1300px;
+margin-left: 0px;
+text-align: center;
+color: white;
+}
+
+.pad img{
+	border:0px;
+	width: 70px; 
+	background-color: none;
+}
+
+.list-inline{
+text-align: right;
+}
+
+.list-inline ul li{
+	float: left;
+	margin-left:20px;
+	padding:10px;
+}
+
+#wrapper{
+	margin-top: 150px;
+	text-align: center;
+}
+
+.feature{
+	text-align: center;
+}
+
+#pad{
+margin-left: 30px;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+.pid img{
+	margin-right:60px;
+
+}
+
+#moi{
+width: 100%;
+background-color: #F5F5F5;
+}
+.feature1{
+	margin-left: 170px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.feature2{
+	margin-left: 0px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.feature2 img{
+margin-right: 20px;
+margin-left: 0px;
+}
+
+#read{
+background-color: #F5F5F5;	
+}
+
+.feature3{
+
+margin-left: 170px;
+margin-top: 40px;
+margin-bottom: 40px;	
+}
+
+#main{
+margin-right: 1px;
+margin-left: 80px;
+margin-top: 30px;
+margin-bottom: 30px;
+text-align: center;	
+}
+
+.croix{
+background-color: #5E7E7B;
+margin-top:30px;
+margin-bottom: 0px;
+height: 690px;
+}
+
+.container{
+	width: 100%;
+	color: white;
+ text-align: center;
+ margin-left:0px;
+ margin-right: 0px;
+ margin-top: 30px;
+margin-bottom: 0px;
+	
+}
+
+.container1{
+text-align: center;
+margin-top: 50px;
+margin-bottom: 30px;
+}
+
+.container1 h3{
+	font-size: 30px;
+}
+
+footer{
+	text-align: center;
+	margin-top: 90px;
+	color: white;
+	background-color:#030303;
+	height: 600px;
+}
+.copy p{
+	font-size: 11px;
+}
+
+#tard h3{
+	font-size: 30px;
+	color: blue;
+}
+
+.copy1 a{
+	width: 100px;
+}
+
+.taif {
+padding-bottom: 100px;
+padding-top: 60px;	
+}
+
+.taif h3{
+	
+	font-size: 30px;
+}
+
+.btn-primary:hover{
+	background-color: #D87002;
+	border-color:  #D87002;
+  }
+.btn-primary{
+	background-color: #D87002;
+	background-clip:  #D87002;
+	border-color:  #D87002;
+	width: 250px;
+	height: 40px;
+}
+
+ button {
+	background-color: #D87002;
+	border-color:  #D87002;
+	width: 180px;
+	height: 40px;
+}
+
+button:hover{
+	background-color: #D87002;
+	border-color:  #D87002;
+}
